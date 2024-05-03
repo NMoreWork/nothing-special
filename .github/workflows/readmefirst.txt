@@ -54,7 +54,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 Code to copy-paste to Readme.md:
-![snake gif](https://github.com/NMoreWork/nothing-special/blob/output/github-contribution-grid-snake.svg)
+Example: ![snake gif](https://github.com/NMoreWork/nothing-special/blob/output/github-contribution-grid-snake.svg)
 
+TEMPL:   ![snake gif](https://github.com/YOUR_NAME/YOUR_REPO_NAME/blob/output/github-contribution-grid-snake.svg)
 
 ATTANTION: Make sure to check Permisions -> Actions -> General -> Read and Write Set option (Do it only for this bot , for regular projects -> use instead "permision: write" in YML for safety reason)
